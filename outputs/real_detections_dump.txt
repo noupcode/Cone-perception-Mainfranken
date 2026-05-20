@@ -1,0 +1,1427 @@
+
+================================================================================
+Topic: /stereo_cone_perception/bounding_boxes
+================================================================================
+markers: 
+  - 
+    header: 
+      seq: 908
+      stamp: 
+        secs: 1757267626
+        nsecs: 921759023
+      frame_id: "zed2_left_camera_optical_frame"
+    ns: ''
+    id: 0
+    type: 3
+    action: 0
+    position: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    scale: 1.0
+    outline_color: 
+      r: 1.0
+      g: 0.0
+      b: 1.0
+      a: 1.0
+    filled: 0
+    fill_color: 
+      r: 0.0
+      g: 0.0
+      b: 0.0
+      a: 0.0
+    lifetime: 
+      secs: 0
+      nsecs:         0
+    points: 
+      - 
+        x: 356.0
+        y: 311.0
+        z: 0.0
+      - 
+        x: 410.0
+        y: 311.0
+        z: 0.0
+      - 
+        x: 410.0
+        y: 407.0
+        z: 0.0
+      - 
+        x: 356.0
+        y: 407.0
+        z: 0.0
+    outline_colors: []
+  - 
+    header: 
+      seq: 908
+      stamp: 
+        secs: 1757267626
+        nsecs: 921759023
+      frame_id: "zed2_left_camera_optical_frame"
+    ns: ''
+    id: 0
+    type: 3
+    action: 0
+    position: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    scale: 1.0
+    outline_color: 
+      r: 1.0
+      g: 0.0
+      b: 1.0
+      a: 1.0
+    filled: 0
+    fill_color: 
+      r: 0.0
+      g: 0.0
+      b: 0.0
+      a: 0.0
+    lifetime: 
+      secs: 0
+      nsecs:         0
+    points: 
+      - 
+        x: 907.0
+        y: 326.0
+        z: 0.0
+      - 
+        x: 990.0
+        y: 326.0
+        z: 0.0
+      - 
+        x: 990.0
+        y: 442.0
+        z: 0.0
+      - 
+        x: 907.0
+        y: 442.0
+        z: 0.0
+    outline_colors: []
+  - 
+    header: 
+      seq: 908
+      stamp: 
+        secs: 1757267626
+        nsecs: 921759023
+      frame_id: "zed2_left_camera_optical_frame"
+    ns: ''
+    id: 0
+    type: 3
+    action: 0
+    position: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    scale: 1.0
+    outline_color: 
+      r: 1.0
+      g: 0.0
+      b: 1.0
+      a: 1.0
+    filled: 0
+    fill_color: 
+      r: 0.0
+      g: 0.0
+      b: 0.0
+      a: 0.0
+    lifetime: 
+      secs: 0
+      nsecs:         0
+    points: 
+      - 
+        x: 263.0
+        y: 338.0
+        z: 0.0
+      - 
+        x: 355.0
+        y: 338.0
+        z: 0.0
+      - 
+        x: 355.0
+        y: 461.0
+        z: 0.0
+      - 
+        x: 263.0
+        y: 461.0
+        z: 0.0
+    outline_colors: []
+  - 
+    header: 
+      seq: 908
+      stamp: 
+        secs: 1757267626
+        nsecs: 921759023
+      frame_id: "zed2_left_camera_optical_frame"
+    ns: ''
+    id: 0
+    type: 3
+    action: 0
+    position: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    scale: 1.0
+    outline_color: 
+      r: 0.20000000298023224
+      g: 0.20000000298023224
+      b: 1.0
+      a: 1.0
+    filled: 0
+    fill_color: 
+      r: 0.0
+      g: 0.0
+      b: 0.0
+      a: 0.0
+    lifetime: 
+      secs: 0
+      nsecs:         0
+    points: 
+      - 
+        x: 328.0
+        y: 362.0
+        z: 0.0
+      - 
+        x: 378.0
+        y: 362.0
+        z: 0.0
+      - 
+        x: 378.0
+        y: 428.0
+        z: 0.0
+      - 
+        x: 328.0
+        y: 428.0
+        z: 0.0
+    outline_colors: []
+  - 
+    header: 
+      seq: 908
+      stamp: 
+        secs: 1757267626
+        nsecs: 921759023
+      frame_id: "zed2_left_camera_optical_frame"
+    ns: ''
+    id: 0
+    type: 3
+    action: 0
+    position: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    scale: 1.0
+    outline_color: 
+      r: 0.20000000298023224
+      g: 0.20000000298023224
+      b: 1.0
+      a: 1.0
+    filled: 0
+    fill_color: 
+      r: 0.0
+      g: 0.0
+      b: 0.0
+      a: 0.0
+    lifetime: 
+      secs: 0
+      nsecs:         0
+    points: 
+      - 
+        x: 511.0
+        y: 282.0
+        z: 0.0
+      - 
+        x: 534.0
+        y: 282.0
+        z: 0.0
+      - 
+        x: 534.0
+        y: 309.0
+        z: 0.0
+      - 
+        x: 511.0
+        y: 309.0
+        z: 0.0
+    outline_colors: []
+  - 
+    header: 
+      seq: 908
+      stamp: 
+        secs: 1757267626
+        nsecs: 921759023
+      frame_id: "zed2_left_camera_optical_frame"
+    ns: ''
+    id: 0
+    type: 3
+    action: 0
+    position: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    scale: 1.0
+    outline_color: 
+      r: 1.0
+      g: 1.0
+      b: 0.0
+      a: 1.0
+    filled: 0
+    fill_color: 
+      r: 0.0
+      g: 0.0
+      b: 0.0
+      a: 0.0
+    lifetime: 
+      secs: 0
+      nsecs:         0
+    points: 
+      - 
+        x: 757.0
+        y: 278.0
+        z: 0.0
+      - 
+        x: 780.0
+        y: 278.0
+        z: 0.0
+      - 
+        x: 780.0
+        y: 305.0
+        z: 0.0
+      - 
+        x: 757.0
+        y: 305.0
+        z: 0.0
+    outline_colors: []
+  - 
+    header: 
+      seq: 908
+      stamp: 
+        secs: 1757267626
+        nsecs: 921759023
+      frame_id: "zed2_left_camera_optical_frame"
+    ns: ''
+    id: 0
+    type: 3
+    action: 0
+    position: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    scale: 1.0
+    outline_color: 
+      r: 1.0
+      g: 0.0
+      b: 1.0
+      a: 1.0
+    filled: 0
+    fill_color: 
+      r: 0.0
+      g: 0.0
+      b: 0.0
+      a: 0.0
+    lifetime: 
+      secs: 0
+      nsecs:         0
+    points: 
+      - 
+        x: 848.0
+        y: 303.0
+        z: 0.0
+      - 
+        x: 903.0
+        y: 303.0
+        z: 0.0
+      - 
+        x: 903.0
+        y: 394.0
+        z: 0.0
+      - 
+        x: 848.0
+        y: 394.0
+        z: 0.0
+    outline_colors: []
+  - 
+    header: 
+      seq: 908
+      stamp: 
+        secs: 1757267626
+        nsecs: 921759023
+      frame_id: "zed2_left_camera_optical_frame"
+    ns: ''
+    id: 0
+    type: 3
+    action: 0
+    position: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    scale: 1.0
+    outline_color: 
+      r: 1.0
+      g: 1.0
+      b: 0.0
+      a: 1.0
+    filled: 0
+    fill_color: 
+      r: 0.0
+      g: 0.0
+      b: 0.0
+      a: 0.0
+    lifetime: 
+      secs: 0
+      nsecs:         0
+    points: 
+      - 
+        x: 884.0
+        y: 350.0
+        z: 0.0
+      - 
+        x: 933.0
+        y: 350.0
+        z: 0.0
+      - 
+        x: 933.0
+        y: 412.0
+        z: 0.0
+      - 
+        x: 884.0
+        y: 412.0
+        z: 0.0
+    outline_colors: []
+  - 
+    header: 
+      seq: 908
+      stamp: 
+        secs: 1757267626
+        nsecs: 921759023
+      frame_id: "zed2_left_camera_optical_frame"
+    ns: ''
+    id: 0
+    type: 3
+    action: 0
+    position: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    scale: 1.0
+    outline_color: 
+      r: 1.0
+      g: 1.0
+      b: 0.0
+      a: 1.0
+    filled: 0
+    fill_color: 
+      r: 0.0
+      g: 0.0
+      b: 0.0
+      a: 0.0
+    lifetime: 
+      secs: 0
+      nsecs:         0
+    points: 
+      - 
+        x: 716.0
+        y: 258.0
+        z: 0.0
+      - 
+        x: 730.0
+        y: 258.0
+        z: 0.0
+      - 
+        x: 730.0
+        y: 276.0
+        z: 0.0
+      - 
+        x: 716.0
+        y: 276.0
+        z: 0.0
+    outline_colors: []
+  - 
+    header: 
+      seq: 908
+      stamp: 
+        secs: 1757267626
+        nsecs: 921759023
+      frame_id: "zed2_left_camera_optical_frame"
+    ns: ''
+    id: 0
+    type: 3
+    action: 0
+    position: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    scale: 1.0
+    outline_color: 
+      r: 1.0
+      g: 1.0
+      b: 0.0
+      a: 1.0
+    filled: 0
+    fill_color: 
+      r: 0.0
+      g: 0.0
+      b: 0.0
+      a: 0.0
+    lifetime: 
+      secs: 0
+      nsecs:         0
+    points: 
+      - 
+        x: 667.0
+        y: 247.0
+        z: 0.0
+      - 
+        x: 677.0
+        y: 247.0
+        z: 0.0
+      - 
+        x: 677.0
+        y: 261.0
+        z: 0.0
+      - 
+        x: 667.0
+        y: 261.0
+        z: 0.0
+    outline_colors: []
+  - 
+    header: 
+      seq: 908
+      stamp: 
+        secs: 1757267626
+        nsecs: 921759023
+      frame_id: "zed2_left_camera_optical_frame"
+    ns: ''
+    id: 0
+    type: 3
+    action: 0
+    position: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    scale: 1.0
+    outline_color: 
+      r: 0.20000000298023224
+      g: 0.20000000298023224
+      b: 1.0
+      a: 1.0
+    filled: 0
+    fill_color: 
+      r: 0.0
+      g: 0.0
+      b: 0.0
+      a: 0.0
+    lifetime: 
+      secs: 0
+      nsecs:         0
+    points: 
+      - 
+        x: 540.0
+        y: 248.0
+        z: 0.0
+      - 
+        x: 549.0
+        y: 248.0
+        z: 0.0
+      - 
+        x: 549.0
+        y: 259.0
+        z: 0.0
+      - 
+        x: 540.0
+        y: 259.0
+        z: 0.0
+    outline_colors: []
+  - 
+    header: 
+      seq: 908
+      stamp: 
+        secs: 1757267626
+        nsecs: 921759023
+      frame_id: "zed2_left_camera_optical_frame"
+    ns: ''
+    id: 0
+    type: 3
+    action: 0
+    position: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    scale: 1.0
+    outline_color: 
+      r: 0.20000000298023224
+      g: 0.20000000298023224
+      b: 1.0
+      a: 1.0
+    filled: 0
+    fill_color: 
+      r: 0.0
+      g: 0.0
+      b: 0.0
+      a: 0.0
+    lifetime: 
+      secs: 0
+      nsecs:         0
+    points: 
+      - 
+        x: 500.0
+        y: 248.0
+        z: 0.0
+      - 
+        x: 508.0
+        y: 248.0
+        z: 0.0
+      - 
+        x: 508.0
+        y: 258.0
+        z: 0.0
+      - 
+        x: 500.0
+        y: 258.0
+        z: 0.0
+    outline_colors: []
+  - 
+    header: 
+      seq: 908
+      stamp: 
+        secs: 1757267626
+        nsecs: 921759023
+      frame_id: "zed2_left_camera_optical_frame"
+    ns: ''
+    id: 0
+    type: 3
+    action: 0
+    position: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    scale: 1.0
+    outline_color: 
+      r: 0.20000000298023224
+      g: 0.20000000298023224
+      b: 1.0
+      a: 1.0
+    filled: 0
+    fill_color: 
+      r: 0.0
+      g: 0.0
+      b: 0.0
+      a: 0.0
+    lifetime: 
+      secs: 0
+      nsecs:         0
+    points: 
+      - 
+        x: 558.0
+        y: 259.0
+        z: 0.0
+      - 
+        x: 572.0
+        y: 259.0
+        z: 0.0
+      - 
+        x: 572.0
+        y: 278.0
+        z: 0.0
+      - 
+        x: 558.0
+        y: 278.0
+        z: 0.0
+    outline_colors: []
+  - 
+    header: 
+      seq: 908
+      stamp: 
+        secs: 1757267626
+        nsecs: 921759023
+      frame_id: "zed2_left_camera_optical_frame"
+    ns: ''
+    id: 0
+    type: 3
+    action: 0
+    position: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    scale: 1.0
+    outline_color: 
+      r: 0.20000000298023224
+      g: 0.20000000298023224
+      b: 1.0
+      a: 1.0
+    filled: 0
+    fill_color: 
+      r: 0.0
+      g: 0.0
+      b: 0.0
+      a: 0.0
+    lifetime: 
+      secs: 0
+      nsecs:         0
+    points: 
+      - 
+        x: 272.0
+        y: 240.0
+        z: 0.0
+      - 
+        x: 279.0
+        y: 240.0
+        z: 0.0
+      - 
+        x: 279.0
+        y: 249.0
+        z: 0.0
+      - 
+        x: 272.0
+        y: 249.0
+        z: 0.0
+    outline_colors: []
+  - 
+    header: 
+      seq: 908
+      stamp: 
+        secs: 1757267626
+        nsecs: 921759023
+      frame_id: "zed2_left_camera_optical_frame"
+    ns: ''
+    id: 0
+    type: 3
+    action: 0
+    position: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    scale: 1.0
+    outline_color: 
+      r: 0.20000000298023224
+      g: 0.20000000298023224
+      b: 1.0
+      a: 1.0
+    filled: 0
+    fill_color: 
+      r: 0.0
+      g: 0.0
+      b: 0.0
+      a: 0.0
+    lifetime: 
+      secs: 0
+      nsecs:         0
+    points: 
+      - 
+        x: 393.0
+        y: 244.0
+        z: 0.0
+      - 
+        x: 401.0
+        y: 244.0
+        z: 0.0
+      - 
+        x: 401.0
+        y: 253.0
+        z: 0.0
+      - 
+        x: 393.0
+        y: 253.0
+        z: 0.0
+    outline_colors: []
+  - 
+    header: 
+      seq: 908
+      stamp: 
+        secs: 1757267626
+        nsecs: 921759023
+      frame_id: "zed2_left_camera_optical_frame"
+    ns: ''
+    id: 0
+    type: 3
+    action: 0
+    position: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    scale: 1.0
+    outline_color: 
+      r: 1.0
+      g: 1.0
+      b: 0.0
+      a: 1.0
+    filled: 0
+    fill_color: 
+      r: 0.0
+      g: 0.0
+      b: 0.0
+      a: 0.0
+    lifetime: 
+      secs: 0
+      nsecs:         0
+    points: 
+      - 
+        x: 619.0
+        y: 245.0
+        z: 0.0
+      - 
+        x: 626.0
+        y: 245.0
+        z: 0.0
+      - 
+        x: 626.0
+        y: 256.0
+        z: 0.0
+      - 
+        x: 619.0
+        y: 256.0
+        z: 0.0
+    outline_colors: []
+  - 
+    header: 
+      seq: 908
+      stamp: 
+        secs: 1757267626
+        nsecs: 921759023
+      frame_id: "zed2_left_camera_optical_frame"
+    ns: ''
+    id: 0
+    type: 3
+    action: 0
+    position: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    scale: 1.0
+    outline_color: 
+      r: 0.20000000298023224
+      g: 0.20000000298023224
+      b: 1.0
+      a: 1.0
+    filled: 0
+    fill_color: 
+      r: 0.0
+      g: 0.0
+      b: 0.0
+      a: 0.0
+    lifetime: 
+      secs: 0
+      nsecs:         0
+    points: 
+      - 
+        x: 204.0
+        y: 239.0
+        z: 0.0
+      - 
+        x: 212.0
+        y: 239.0
+        z: 0.0
+      - 
+        x: 212.0
+        y: 249.0
+        z: 0.0
+      - 
+        x: 204.0
+        y: 249.0
+        z: 0.0
+    outline_colors: []
+  - 
+    header: 
+      seq: 908
+      stamp: 
+        secs: 1757267626
+        nsecs: 921759023
+      frame_id: "zed2_left_camera_optical_frame"
+    ns: ''
+    id: 0
+    type: 3
+    action: 0
+    position: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    scale: 1.0
+    outline_color: 
+      r: 0.20000000298023224
+      g: 0.20000000298023224
+      b: 1.0
+      a: 1.0
+    filled: 0
+    fill_color: 
+      r: 0.0
+      g: 0.0
+      b: 0.0
+      a: 0.0
+    lifetime: 
+      secs: 0
+      nsecs:         0
+    points: 
+      - 
+        x: 451.0
+        y: 245.0
+        z: 0.0
+      - 
+        x: 458.0
+        y: 245.0
+        z: 0.0
+      - 
+        x: 458.0
+        y: 255.0
+        z: 0.0
+      - 
+        x: 451.0
+        y: 255.0
+        z: 0.0
+    outline_colors: []
+  - 
+    header: 
+      seq: 908
+      stamp: 
+        secs: 1757267626
+        nsecs: 921759023
+      frame_id: "zed2_left_camera_optical_frame"
+    ns: ''
+    id: 0
+    type: 3
+    action: 0
+    position: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    scale: 1.0
+    outline_color: 
+      r: 1.0
+      g: 1.0
+      b: 0.0
+      a: 1.0
+    filled: 0
+    fill_color: 
+      r: 0.0
+      g: 0.0
+      b: 0.0
+      a: 0.0
+    lifetime: 
+      secs: 0
+      nsecs:         0
+    points: 
+      - 
+        x: 259.0
+        y: 236.0
+        z: 0.0
+      - 
+        x: 265.0
+        y: 236.0
+        z: 0.0
+      - 
+        x: 265.0
+        y: 245.0
+        z: 0.0
+      - 
+        x: 259.0
+        y: 245.0
+        z: 0.0
+    outline_colors: []
+  - 
+    header: 
+      seq: 908
+      stamp: 
+        secs: 1757267626
+        nsecs: 921759023
+      frame_id: "zed2_left_camera_optical_frame"
+    ns: ''
+    id: 0
+    type: 3
+    action: 0
+    position: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    scale: 1.0
+    outline_color: 
+      r: 1.0
+      g: 1.0
+      b: 0.0
+      a: 1.0
+    filled: 0
+    fill_color: 
+      r: 0.0
+      g: 0.0
+      b: 0.0
+      a: 0.0
+    lifetime: 
+      secs: 0
+      nsecs:         0
+    points: 
+      - 
+        x: 385.0
+        y: 239.0
+        z: 0.0
+      - 
+        x: 391.0
+        y: 239.0
+        z: 0.0
+      - 
+        x: 391.0
+        y: 247.0
+        z: 0.0
+      - 
+        x: 385.0
+        y: 247.0
+        z: 0.0
+    outline_colors: []
+  - 
+    header: 
+      seq: 908
+      stamp: 
+        secs: 1757267626
+        nsecs: 921759023
+      frame_id: "zed2_left_camera_optical_frame"
+    ns: ''
+    id: 0
+    type: 3
+    action: 0
+    position: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    scale: 1.0
+    outline_color: 
+      r: 0.20000000298023224
+      g: 0.20000000298023224
+      b: 1.0
+      a: 1.0
+    filled: 0
+    fill_color: 
+      r: 0.0
+      g: 0.0
+      b: 0.0
+      a: 0.0
+    lifetime: 
+      secs: 0
+      nsecs:         0
+    points: 
+      - 
+        x: 109.0
+        y: 241.0
+        z: 0.0
+      - 
+        x: 117.0
+        y: 241.0
+        z: 0.0
+      - 
+        x: 117.0
+        y: 251.0
+        z: 0.0
+      - 
+        x: 109.0
+        y: 251.0
+        z: 0.0
+    outline_colors: []
+  - 
+    header: 
+      seq: 908
+      stamp: 
+        secs: 1757267626
+        nsecs: 921759023
+      frame_id: "zed2_left_camera_optical_frame"
+    ns: ''
+    id: 0
+    type: 3
+    action: 0
+    position: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    scale: 1.0
+    outline_color: 
+      r: 1.0
+      g: 1.0
+      b: 0.0
+      a: 1.0
+    filled: 0
+    fill_color: 
+      r: 0.0
+      g: 0.0
+      b: 0.0
+      a: 0.0
+    lifetime: 
+      secs: 0
+      nsecs:         0
+    points: 
+      - 
+        x: 562.0
+        y: 242.0
+        z: 0.0
+      - 
+        x: 569.0
+        y: 242.0
+        z: 0.0
+      - 
+        x: 569.0
+        y: 252.0
+        z: 0.0
+      - 
+        x: 562.0
+        y: 252.0
+        z: 0.0
+    outline_colors: []
+  - 
+    header: 
+      seq: 908
+      stamp: 
+        secs: 1757267626
+        nsecs: 921759023
+      frame_id: "zed2_left_camera_optical_frame"
+    ns: ''
+    id: 0
+    type: 3
+    action: 0
+    position: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    scale: 1.0
+    outline_color: 
+      r: 1.0
+      g: 1.0
+      b: 0.0
+      a: 1.0
+    filled: 0
+    fill_color: 
+      r: 0.0
+      g: 0.0
+      b: 0.0
+      a: 0.0
+    lifetime: 
+      secs: 0
+      nsecs:         0
+    points: 
+      - 
+        x: 164.0
+        y: 236.0
+        z: 0.0
+      - 
+        x: 171.0
+        y: 236.0
+        z: 0.0
+      - 
+        x: 171.0
+        y: 246.0
+        z: 0.0
+      - 
+        x: 164.0
+        y: 246.0
+        z: 0.0
+    outline_colors: []
+  - 
+    header: 
+      seq: 908
+      stamp: 
+        secs: 1757267626
+        nsecs: 921759023
+      frame_id: "zed2_left_camera_optical_frame"
+    ns: ''
+    id: 0
+    type: 3
+    action: 0
+    position: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    scale: 1.0
+    outline_color: 
+      r: 1.0
+      g: 1.0
+      b: 0.0
+      a: 1.0
+    filled: 0
+    fill_color: 
+      r: 0.0
+      g: 0.0
+      b: 0.0
+      a: 0.0
+    lifetime: 
+      secs: 0
+      nsecs:         0
+    points: 
+      - 
+        x: 63.0
+        y: 239.0
+        z: 0.0
+      - 
+        x: 72.0
+        y: 239.0
+        z: 0.0
+      - 
+        x: 72.0
+        y: 249.0
+        z: 0.0
+      - 
+        x: 63.0
+        y: 249.0
+        z: 0.0
+    outline_colors: []
+  - 
+    header: 
+      seq: 908
+      stamp: 
+        secs: 1757267626
+        nsecs: 921759023
+      frame_id: "zed2_left_camera_optical_frame"
+    ns: ''
+    id: 0
+    type: 3
+    action: 0
+    position: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    scale: 1.0
+    outline_color: 
+      r: 0.20000000298023224
+      g: 0.20000000298023224
+      b: 1.0
+      a: 1.0
+    filled: 0
+    fill_color: 
+      r: 0.0
+      g: 0.0
+      b: 0.0
+      a: 0.0
+    lifetime: 
+      secs: 0
+      nsecs:         0
+    points: 
+      - 
+        x: 19.0
+        y: 242.0
+        z: 0.0
+      - 
+        x: 27.0
+        y: 242.0
+        z: 0.0
+      - 
+        x: 27.0
+        y: 251.0
+        z: 0.0
+      - 
+        x: 19.0
+        y: 251.0
+        z: 0.0
+    outline_colors: []
+  - 
+    header: 
+      seq: 908
+      stamp: 
+        secs: 1757267626
+        nsecs: 921759023
+      frame_id: "zed2_left_camera_optical_frame"
+    ns: ''
+    id: 0
+    type: 3
+    action: 0
+    position: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    scale: 1.0
+    outline_color: 
+      r: 1.0
+      g: 1.0
+      b: 0.0
+      a: 1.0
+    filled: 0
+    fill_color: 
+      r: 0.0
+      g: 0.0
+      b: 0.0
+      a: 0.0
+    lifetime: 
+      secs: 0
+      nsecs:         0
+    points: 
+      - 
+        x: 335.0
+        y: 237.0
+        z: 0.0
+      - 
+        x: 341.0
+        y: 237.0
+        z: 0.0
+      - 
+        x: 341.0
+        y: 245.0
+        z: 0.0
+      - 
+        x: 335.0
+        y: 245.0
+        z: 0.0
+    outline_colors: []
+  - 
+    header: 
+      seq: 908
+      stamp: 
+        secs: 1757267626
+        nsecs: 921759023
+      frame_id: "zed2_left_camera_optical_frame"
+    ns: ''
+    id: 0
+    type: 3
+    action: 0
+    position: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    scale: 1.0
+    outline_color: 
+      r: 1.0
+      g: 1.0
+      b: 0.0
+      a: 1.0
+    filled: 0
+    fill_color: 
+      r: 0.0
+      g: 0.0
+      b: 0.0
+      a: 0.0
+    lifetime: 
+      secs: 0
+      nsecs:         0
+    points: 
+      - 
+        x: 388.0
+        y: 242.0
+        z: 0.0
+      - 
+        x: 398.0
+        y: 242.0
+        z: 0.0
+      - 
+        x: 398.0
+        y: 252.0
+        z: 0.0
+      - 
+        x: 388.0
+        y: 252.0
+        z: 0.0
+    outline_colors: []
+
+================================================================================
+Topic: /stereo_cone_perception/cones
+================================================================================
+header: 
+  seq: 633
+  stamp: 
+    secs: 1757267626
+    nsecs: 921759023
+  frame_id: "camera"
+points: 
+  - 
+    x: 2.8718409538269043
+    y: 1.4473716020584106
+    z: -0.0178182702511549
+  - 
+    x: 2.3918049335479736
+    y: -1.3902790546417236
+    z: -0.1295931488275528
+  - 
+    x: 2.228524684906006
+    y: 1.4396299123764038
+    z: -0.18703633546829224
+  - 
+    x: 2.5671958923339844
+    y: 1.441636085510254
+    z: -0.19329017400741577
+  - 
+    x: 5.9853410720825195
+    y: 1.4141680002212524
+    z: 0.6922575831413269
+  - 
+    x: 6.084788799285889
+    y: -1.4349663257598877
+    z: 0.7504690289497375
+  - 
+    x: 3.060682773590088
+    y: -1.3502904176712036
+    z: 0.04268473759293556
+  - 
+    x: 2.8020901679992676
+    y: -1.4136642217636108
+    z: -0.13569076359272003
+  - 
+    x: 9.365859985351562
+    y: -1.3909152746200562
+    z: 1.595505952835083
+  - 
+    x: 12.35116958618164
+    y: -0.6253966689109802
+    z: 2.412205457687378
+  - 
+    x: 14.122754096984863
+    y: 2.740542411804199
+    z: 2.7717506885528564
+  - 
+    x: 14.269353866577148
+    y: 3.8780593872070312
+    z: 2.8142147064208984
+  - 
+    x: 9.097691535949707
+    y: 1.4075026512145996
+    z: 1.523633360862732
+  - 
+    x: 15.633543968200684
+    y: 11.104372024536133
+    z: 3.338282346725464
+  - 
+    x: 14.560132026672363
+    y: 6.94692850112915
+    z: 2.9973032474517822
+  - 
+    x: 14.704021453857422
+    y: 0.652288019657135
+    z: 2.970486640930176
+  - 
+    x: 15.728607177734375
+    y: 13.20937442779541
+    z: 3.373673915863037
+  - 
+    x: 15.088886260986328
+    y: 5.5341691970825195
+    z: 3.0627150535583496
+  - 
+    x: 17.826488494873047
+    y: 13.123849868774414
+    z: 3.943392753601074
+  - 
+    x: 15.176347732543945
+    y: 7.503062725067139
+    z: 3.2843432426452637
+  - 
+    x: 13.987113952636719
+    y: 14.296876907348633
+    z: 2.9464504718780518
+  - 
+    x: 14.715224266052246
+    y: 2.262470245361328
+    z: 3.0715901851654053
+  - 
+    x: 17.36711883544922
+    y: 15.935286521911621
+    z: 3.825110912322998
+  - 
+    x: 14.504799842834473
+    y: 16.092578887939453
+    z: 3.111176013946533
+  - 
+    x: 13.339437484741211
+    y: 15.93883991241455
+    z: 2.7972145080566406
+  - 
+    x: 15.709843635559082
+    y: 9.274262428283691
+    z: 3.4600958824157715
+  - 
+    x: 14.565109252929688
+    y: 7.0611114501953125
+    z: 3.0402557849884033
+channels: 
+  - 
+    name: "color"
+    values: [3.0, 3.0, 3.0, 0.0, 0.0, 1.0, 3.0, 1.0, 1.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 1.0, 1.0, 0.0, 1.0, 1.0, 1.0, 0.0, 1.0, 1.0]
+  - 
+    name: "confidence"
+    values: [0.944173276424408, 0.9390848875045776, 0.9314824342727661, 0.9145200848579407, 0.9093039035797119, 0.9087428450584412, 0.9035484194755554, 0.8861882090568542, 0.8763352632522583, 0.8432610630989075, 0.8212669491767883, 0.8179672956466675, 0.7944735884666443, 0.7753459811210632, 0.7426770329475403, 0.7241864800453186, 0.7066019177436829, 0.6771524548530579, 0.6520898938179016, 0.6474212408065796, 0.631540834903717, 0.6300066709518433, 0.6244950890541077, 0.5791128873825073, 0.571165919303894, 0.4266957938671112, 0.25494834780693054]
