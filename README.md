@@ -121,7 +121,7 @@ mono_cone_perception/
 # Requirements
 
 Tested with:
-
+```
   Ubuntu 20.04
   ROS Noetic
   Python 3.8
@@ -131,7 +131,7 @@ Tested with:
   rosbag
   cv_bridge
   foxglove_msgs
-
+```
 
   # Limitations
 
