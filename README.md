@@ -21,11 +21,11 @@ ZED left camera image
 For each cone detection, the bottom-center of the bounding box is used as the approximate ground contact point of the cone. This pixel is then projected into metric ground coordinates using a homography.
 
 The output is a 2D cone position estimate in a vehicle/camera ground frame:
-
+```text
 X = forward
 Y = left
 Z = 0
-
+```
 # Current status
 
 The project currently supports:
@@ -44,6 +44,7 @@ Publishing a debug image with bounding boxes, bottom-center points, ROI, and pro
 The current system uses a manually initialized homography as a baseline. A proper ArUco-marker-based calibration is the next accuracy improvement step.
 
 Example pipeline
+```text
 rosbag play
     ↓
 /zed2/zed_node/left/image_rect_color
@@ -54,29 +55,33 @@ rosbag play
 /mono_cone_perception/cones
 /mono_cone_perception/debug_image
 Dataset / ROS topics
-
+```
 The development ROS bag contains real vehicle data, including:
-
+```
 /zed2/zed_node/left/image_rect_color
 /zed2/zed_node/left/camera_info
 /stereo_cone_perception/bounding_boxes
 /stereo_cone_perception/cones
 /lidar/cone_position_cloud
-
+```
 The current monocular pipeline uses:
 
 Input image:
+```
   /zed2/zed_node/left/image_rect_color
-
+```
 Input 2D cone boxes:
+```
   /stereo_cone_perception/bounding_boxes
-
+```
 Reference for validation:
+```
   /stereo_cone_perception/cones
-
+```
 Important note: the current localization part is monocular, but the 2D bounding boxes are still taken from the existing stereo cone perception output. A future step is replacing this with an independent monocular cone detector.
 
 # Repository structure
+```
 mono_cone_perception/
 ├── config/
 │   ├── camera.json
@@ -111,7 +116,7 @@ mono_cone_perception/
     ├── 15_detect_aruco_in_image.py
     ├── 16_compute_homography_from_aruco.py
     └── 17_mono_cone_ros_node.py
-
+```
 
 # Requirements
 
