@@ -1,4 +1,7 @@
-# Monocular Cone Localization for Formula Student Driverless
+# Monocular Cone Localization for Formula Student Driverless 
+
+Project Head: Luca Antonio Weiss
+
 
 This project explores a lightweight monocular perception pipeline for estimating cone positions using a single camera image.
 
